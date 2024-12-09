@@ -188,7 +188,7 @@
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
-        \mbox{\hrefWithoutArrow{mailto:youremail@yourdomain.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}sureshksureshk04@gmail.com}}%
+        \mbox{\hrefWithoutArrow{mailto:sureshksureshk04@gmail.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}sureshksureshk04@gmail.com}}%
         \kern 0.25 cm%
         \AND%
         \kern 0.25 cm%
@@ -216,7 +216,7 @@
 
         
         \begin{onecolentry}
-            Entry-level Python developer with hands-on experience in building web applications using Flask and Django. Skilled in database management with MySQL and Sqlite3, and passionate about delivering scalable and efficient solutions.}
+            Entry-level Python developer with hands-on experience in building web applications using Flask and Django. Skilled in database management with MySQL and Sqlite3, and passionate about delivering scalable and efficient solutions.
         \end{onecolentry}
     
     % \section{Quick Guide}
@@ -376,5 +376,5 @@ Shiash Info Solutions Private Limited, Sholinganallur, Chennai, Tamil Nadu.
                 \item Great Learnings - CSS.
                 \item  Besant Technologies - Python.
             \end{highlights}
-
+        
 \end{document}
